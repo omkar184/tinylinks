@@ -4,6 +4,8 @@ Simple URL shortener with plain PHP
 =================================================
 by Onkar Sagare<omkarsagare184@gmail.com>
 
+![image](https://github.com/omkar184/URLaraShort/blob/master/Docs/Screenshot-1.png)
+
 Setup
 
 You need to have Apache server and MySQL server installed on your system.
