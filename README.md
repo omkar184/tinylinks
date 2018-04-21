@@ -1,4 +1,4 @@
-# tinylinks
+# TinyLinks
 
 Simple URL shortener with plain PHP
 =================================================
